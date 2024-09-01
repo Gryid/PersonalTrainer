@@ -1,0 +1,1 @@
+Esse projeto visa a criação de um personal trainer com uso de ferramentas de inteligência artificial
